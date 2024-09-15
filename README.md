@@ -1,0 +1,1 @@
+# blender-usdz-exporter
